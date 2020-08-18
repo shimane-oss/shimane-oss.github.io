@@ -19,6 +19,10 @@ div.highlight {
 }
 
 .content h1 {
+    color: #3B5998;
+}
+
+.content h5 {
     color: $blue;
 }
 
@@ -26,12 +30,16 @@ div.highlight {
     background-color: rgba($hero-darken, 0.5);
 }
 
-.card-header-title {
-    color: $cyan;
-    background-color: $white-ter;
-}
-
 a:hover {
     color: $red;
     text-decoration: underline;
+}
+
+.card-header-title {
+    color: $blue;
+    background-color: $white-ter;
+}
+
+.published {
+    margin-top: 4em;
 }
