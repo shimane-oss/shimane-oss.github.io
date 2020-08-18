@@ -15,7 +15,7 @@ published: true
    
 新サイトは、GitHubで管理・公開しています。  
 
-このサイトは、Ruby製の静的サイト構築ツールJekyll[http://jekyllrb-ja.github.io/](http://jekyllrb-ja.github.io/)で構築しています。  
+このサイトは、Ruby製の静的サイト構築ツールJekyll([http://jekyllrb-ja.github.io/](http://jekyllrb-ja.github.io/))で構築しています。  
 また、本サイトのソースコードは、GitHub([https://github.com/shimane-oss/shimane-oss.github.io](https://github.com/shimane-oss/shimane-oss.github.io))で一般公開しています。  
 ローカルで動かしてみたい方は、READMEに簡単な説明を記載していますので、お試しください。  
   

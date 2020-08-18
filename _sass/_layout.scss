@@ -18,6 +18,20 @@ div.highlight {
     margin-bottom: 3rem;
 }
 
+.content h1 {
+    color: $blue;
+}
+
 .hero-darken {
     background-color: rgba($hero-darken, 0.5);
+}
+
+.card-header-title {
+    color: $cyan;
+    background-color: $white-ter;
+}
+
+a:hover {
+    color: $red;
+    text-decoration: underline;
 }
