@@ -4,6 +4,7 @@ subtitle: "しまねOSS協議会（Open Source Software Society Shimane : OS4）
 layout: page
 hero_height: is-medium
 show_sidebar: true
+image: "/images/ogp.png"
 ---
 
 # しまねOSS協議会のご案内
