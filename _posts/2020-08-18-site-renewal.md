@@ -1,13 +1,9 @@
 ---
-layout: post
 title:  サイトリニューアル！
 subtitle: 
 description: しまねOSS協議会の公式Webサイトをリニューアルしました。
-date:   2020-08-18 12:00:00 +0900
-hero_height: is-small
-hero_darken: false
-show_sidebar: true
-tags: その他
+date: 2020-08-18 12:00:00 +0900
+tags: お知らせ
 published: true
 --- 
 

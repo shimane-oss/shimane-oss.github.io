@@ -1,8 +1,5 @@
 ---
-layout: page
 title: 会員紹介
-hero_height: is-small
-show_sidebar: true
 ---
 (2019.8.2現在)  
 
