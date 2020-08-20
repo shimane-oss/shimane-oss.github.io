@@ -1,10 +1,7 @@
 ---
 title: しまねOSS協議会 OS4
 subtitle: "しまねOSS協議会（Open Source Software Society Shimane : OS4）は、島根県内におけるOSS（オープン・ソース・ソフトウェア）に関わる企業、技術者、研究者、そしてユーザによる組織です。"
-layout: page
 hero_height: is-medium
-show_sidebar: true
-image: "/images/ogp.png"
 ---
 
 # しまねOSS協議会のご案内
