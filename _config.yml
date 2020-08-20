@@ -11,7 +11,7 @@ description: >
   島根県内におけるOSS（オープン・ソース・ソフトウェア）に関わる
   企業、技術者、研究者、そしてユーザによる組織です。
 baseurl: ""
-url: "www.shimane-oss.org"
+url: "https://www.shimane-oss.org"
 permalink: pretty
 #favicon: /path/to/favicon.png
 hide_share_buttons: true
