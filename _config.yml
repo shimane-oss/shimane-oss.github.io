@@ -49,18 +49,25 @@ defaults:
   -
     scope:
       path: ""
+    values:
+      lang: ja_JP
+      show_sidebar: true
+      hero_height: is-small
+  -
+    scope:
+      path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      layout: page
+      image: /images/ogp.png
   -
     scope:
       path: ""
       type: "posts"
     values:
-      author: "しまねOSS協議会"
       layout: post
-      image: 
-      show_sidebar: true
+      hero_darken: false
+      author: "しまねOSS協議会"
 
 markdown: kramdown
 highlighter: rouge
