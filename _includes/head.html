@@ -1,4 +1,4 @@
-<head>
+<head prefix="og: https://ogp.me/ns#">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} - {{ site.title }}</title>
@@ -15,4 +15,10 @@
       {%- include google-analytics.html -%}
     {%- endif -%}
     {%- include head-scripts.html -%}
+
+    {% if page.layout == "post" %}
+      <meta property="og:type" content="article" />
+    {% else %}
+      <meta property="og:type" content="website" />
+    {% endif %}
 </head>
