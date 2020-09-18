@@ -53,13 +53,13 @@ defaults:
       lang: ja_JP
       show_sidebar: true
       hero_height: is-small
+      image: /images/ogp.png
   -
     scope:
       path: ""
       type: "pages"
     values:
       layout: page
-      image: /images/ogp.png
   -
     scope:
       path: ""
