@@ -11,6 +11,7 @@ title: 会員紹介
 |[有限会社アイナス](http://www.inas.co.jp/){:target="_blank" rel="noopener"}|島根県出雲市|
 |[株式会社アイル](https://www.ill.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[株式会社イーストバック](https://www.eastback.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
+|[イーレム株式会社](https://ylem.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[合資会社いずもウェブ](http://www.izumoweb.com/){:target="_blank" rel="noopener"}|島根県出雲市|
 |[有限会社Willさんいん](https://www.will3in.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社永和システムマネジメント](https://www.esm.co.jp/){:target="_blank" rel="noopener"}|福井県福井市|
@@ -18,7 +19,7 @@ title: 会員紹介
 |[ガリレオスコープ株式会社](http://www.galileoscope.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[クロム株式会社](https://www.crom.co.jp/){:target="_blank" rel="noopener"}|東京都千代田区|
 |[小松電機産業株式会社](https://www.komatsuelec.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
-|[サイバートラスト株式会社](https://www.miraclelinux.com/){:target="_blank" rel="noopener"}|東京都新宿区|
+|[サイバートラスト株式会社](https://www.cybertrust.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[株式会社山陰合同銀行](https://www.gogin.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社システム工房エム](http://www.kouboum.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社スマートスタイル](https://www.s-style.co.jp/){:target="_blank" rel="noopener"}|東京都千代田区|
