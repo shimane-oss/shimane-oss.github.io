@@ -3,7 +3,8 @@
 ## ローカル環境での確認方法
 
 - 静的サイトジェネレーター[Jekyll](https://jekyllrb.com/)を使用します。
-- Ruby 2.5.0以上
+- Ruby 2.5.0以上  
+※ Ruby 2.7.4を推奨（3系ではエラーが発生）[2021/10/15]
 
 1. リポジトリをクローンする。  
 `git clone https://github.com/shimane-oss/shimane-oss.github.io.git`  
