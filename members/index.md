@@ -1,7 +1,7 @@
 ---
 title: 会員紹介
 ---
-(2021.3.24現在)  
+(2022.1.19現在)  
 
 # 法人会員
 31社
@@ -31,7 +31,6 @@ title: 会員紹介
 |[株式会社パソナテック](https://www.pasonatech.co.jp/){:target="_blank" rel="noopener"}|東京都千代田区|
 |[ファーエンドテクノロジー株式会社](https://www.farend.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[フェンリル株式会社](https://www.fenrir-inc.com/){:target="_blank" rel="noopener"}|島根県松江市|
-|[株式会社フォックス・リレーション](https://www.fox-r.com/){:target="_blank" rel="noopener"}|広島県広島市|
 |[株式会社藤井基礎設計事務所](http://www.fujii-kiso.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[システムアトリエ　ブルーオメガ](https://blueomega.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社プロビズモ](https://www.probizmo.co.jp/){:target="_blank" rel="noopener"}|島根県出雲市|
