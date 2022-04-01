@@ -36,7 +36,6 @@ hero_height: is-medium
 # お問い合わせ
 
 ##### しまねOSS協議会 事務局  
-〒690-0003 松江市朝日町478-18 松江テルサ別館2階  
+〒690-0826 島根県松江市学園南二丁目12番5号 HOYOパークサイドビル2F  
 （株）ネットワーク応用通信研究所内  
-TEL: 0852-28-9298, FAX: 0852-28-9398  
 E-Mail : [info@shimane-oss.org](mailto:info@shimane-oss.org)
