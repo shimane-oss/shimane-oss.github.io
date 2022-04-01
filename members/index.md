@@ -35,7 +35,7 @@ title: 会員紹介
 |[システムアトリエ　ブルーオメガ](https://blueomega.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社プロビズモ](https://www.probizmo.co.jp/){:target="_blank" rel="noopener"}|島根県出雲市|
 |[株式会社マツケイ](http://www.matsukei.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
-|[株式会社モンスター・ラボ島根開発拠点](https://monstar-lab.com/){:target="_blank" rel="noopener"}|島根県松江市|
+|[株式会社モンスターラボ島根開発拠点](https://monstar-lab.com/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社八雲ソフトウェア](https://8clouds.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社ルーツ](http://tokyo-roots.selfip.com/){:target="_blank" rel="noopener"}|島根県松江市|
 
