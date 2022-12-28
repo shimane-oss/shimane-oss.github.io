@@ -1,7 +1,7 @@
 ---
 title: 会員紹介
 ---
-(2022.1.19現在)  
+(2022.12.28現在)  
 
 # 法人会員
 30社
@@ -28,7 +28,7 @@ title: 会員紹介
 |[テラテクノロジー株式会社](https://www.teratech.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[日本システム開発株式会社](https://www.nskint.co.jp/){:target="_blank" rel="noopener"}|愛知県名古屋市|
 |[株式会社ネットワーク応用通信研究所](https://www.netlab.jp/){:target="_blank" rel="noopener"}|島根県松江市|
-|[株式会社パソナテック](https://www.pasonatech.co.jp/){:target="_blank" rel="noopener"}|東京都千代田区|
+|[株式会社パソナ](https://www.pasonatech.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[ファーエンドテクノロジー株式会社](https://www.farend.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[フェンリル株式会社](https://www.fenrir-inc.com/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社藤井基礎設計事務所](http://www.fujii-kiso.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
