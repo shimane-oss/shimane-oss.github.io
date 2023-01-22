@@ -1,7 +1,7 @@
 ---
 title: 会員紹介
 ---
-(2022.12.28現在)  
+(2023.1.22現在)  
 
 # 法人会員
 30社
@@ -40,11 +40,11 @@ title: 会員紹介
 |[株式会社ルーツ](http://tokyo-roots.selfip.com/){:target="_blank" rel="noopener"}|島根県松江市|
 
 # 個人会員
-4名
+3名
 
 # サポーター会員
-24名
+12名
 
 # 賛同団体
 
-|[日本貿易振興機構（ジェトロ）松江貿易情報センター](https://www.jetro.go.jp/){:target="_blank" rel="noopener"}|島根県松江市|
+|[日本貿易振興機構（ジェトロ）島根貿易情報センター](https://www.jetro.go.jp/){:target="_blank" rel="noopener"}|島根県松江市|
