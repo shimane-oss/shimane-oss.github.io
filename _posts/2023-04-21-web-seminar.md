@@ -1,6 +1,6 @@
 ---
 title: 初学者向け！Webサイト構築セミナー（全4回）
-subtitle: 開催日時：2023年5月17日(水) 18時30分～21時00分（第1回）
+subtitle: 開催日時：2023年5月17日(水) 18時30分～20時00分（第1回）
 description: GitHub PagesとJekyllを利用した無料のハンズオンセミナーです。
 date: 2023-04-21 08:30:00 +0900
 tags: セミナー
@@ -17,7 +17,7 @@ Ruby製のWebサイトジェネレーター「Jekyll」と「GitHub Pages」を�
 <br>
 
 |<nobr>対　象</nobr>|パソコンが使える方ならどなたでもOK <br> （パソコンの貸し出しはありませんので、パソコンをご持参ください）|
-|<nobr>日　時</nobr>|1回目　2023年5月17日(水) 18時30分～21時00分 <br> 2回目　2023年5月24日(水) 18時30分～21時00分 <br> 3回目　2023年5月31日(水) 18時30分～21時00分 <br> 4回目　2023年6月7日(水) 18時30分～21時00分|
+|<nobr>日　時</nobr>|1回目　2023年5月17日(水) 18時30分～<s style="text-decoration-color: red;">21</s><span style="color: red;">20</span>時00分 <br> 2回目　2023年5月24日(水) 18時30分～<s style="text-decoration-color: red;">21</s><span style="color: red;">20</span>時00分 <br> 3回目　2023年5月31日(水) 18時30分～<s style="text-decoration-color: red;">21</s><span style="color: red;">20</span>時00分 <br> 4回目　2023年6月7日(水) 18時30分～<s style="text-decoration-color: red;">21</s><span style="color: red;">20</span>時00分|
 |<nobr>会　場</nobr>|松江オープンソースラボ（松江テルサ別館2階）|
 |<nobr>参加費</nobr>|無料|
 |<nobr>定　員</nobr>|20名|
