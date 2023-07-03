@@ -1,10 +1,10 @@
 ---
 title: 会員紹介
 ---
-(2023.2.6現在)  
+(2023.7.3現在)  
 
 # 法人会員
-30社
+29社
 
 |法人名(50音順)|本社所在地|
 |---|---|
@@ -17,7 +17,6 @@ title: 会員紹介
 |[株式会社永和システムマネジメント](https://www.esm.co.jp/){:target="_blank" rel="noopener"}|福井県福井市|
 |[エクスウェア株式会社](https://www.xware.co.jp/){:target="_blank" rel="noopener"}|東京都品川区|
 |[ガリレオスコープ株式会社](http://www.galileoscope.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
-|[クロム株式会社](https://www.crom.co.jp/){:target="_blank" rel="noopener"}|東京都千代田区|
 |[小松電機産業株式会社](https://www.komatsuelec.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[サイバートラスト株式会社](https://www.cybertrust.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[株式会社山陰合同銀行](https://www.gogin.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
@@ -43,7 +42,7 @@ title: 会員紹介
 4名
 
 # サポーター会員
-12名
+11名
 
 # 賛同団体
 
