@@ -30,7 +30,7 @@ hero_height: is-medium
 
 [入会申込書（PDF形式）](/files/nyukai.pdf){:target="_blank" rel="noopener"}  
 [入会申込書（OpenOffice.org形式）](/files/nyukai.ods){:target="_blank" rel="noopener"}  
-[入会申込書（Excel形式）](/files/nyukai.xls){:target="_blank" rel="noopener"}
+[入会申込書（Excel形式）](/files/nyukai.xlsx){:target="_blank" rel="noopener"}
 
 # お問い合わせ
 
