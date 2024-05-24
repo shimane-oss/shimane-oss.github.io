@@ -1,6 +1,6 @@
 # Theme
 # theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 # Site Settings
 title: しまねOSS協議会 OS4
