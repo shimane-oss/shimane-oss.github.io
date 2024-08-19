@@ -1,10 +1,10 @@
 ---
 title: 会員紹介
 ---
-(2023.7.3現在)  
+(2024.8.19現在)  
 
 # 法人会員
-29社
+28社
 
 |法人名(50音順)|本社所在地|
 |---|---|
@@ -16,7 +16,6 @@ title: 会員紹介
 |[有限会社Willさんいん](https://www.will3in.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社永和システムマネジメント](https://www.esm.co.jp/){:target="_blank" rel="noopener"}|福井県福井市|
 |[エクスウェア株式会社](https://www.xware.co.jp/){:target="_blank" rel="noopener"}|東京都品川区|
-|[ガリレオスコープ株式会社](http://www.galileoscope.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[小松電機産業株式会社](https://www.komatsuelec.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[サイバートラスト株式会社](https://www.cybertrust.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[株式会社山陰合同銀行](https://www.gogin.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
@@ -42,7 +41,7 @@ title: 会員紹介
 4名
 
 # サポーター会員
-11名
+6名
 
 # 賛同団体
 
