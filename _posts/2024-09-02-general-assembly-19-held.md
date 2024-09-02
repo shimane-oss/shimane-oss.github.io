@@ -1,7 +1,7 @@
 ---
 title: しまねOSS協議会 第19期年次総会を開催
 subtitle: 開催日時：2024年8月30日(金) 17時00分～18時00分 
-description: しまねOSS協議会の第18期年次総会を開催いたしました。
+description: しまねOSS協議会の第19期年次総会を開催いたしました。
 date: 2024-09-02 22:00:00 +0900
 tags: 総会
 published: true
