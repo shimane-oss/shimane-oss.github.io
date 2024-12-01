@@ -1,10 +1,10 @@
 ---
 title: 会員紹介
 ---
-(2024.8.19現在)  
+(2024.12.1現在)  
 
 # 法人会員
-28社
+30社
 
 |法人名(50音順)|本社所在地|
 |---|---|
@@ -16,6 +16,7 @@ title: 会員紹介
 |[有限会社Willさんいん](https://www.will3in.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社永和システムマネジメント](https://www.esm.co.jp/){:target="_blank" rel="noopener"}|福井県福井市|
 |[エクスウェア株式会社](https://www.xware.co.jp/){:target="_blank" rel="noopener"}|東京都品川区|
+|[OSS-Vison株式会社](https://oss-vision.com/){:target="_blank" rel="noopener"}|島根県松江市|
 |[小松電機産業株式会社](https://www.komatsuelec.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[サイバートラスト株式会社](https://www.cybertrust.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
 |[株式会社山陰合同銀行](https://www.gogin.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
@@ -24,6 +25,7 @@ title: 会員紹介
 |[株式会社ティーエム２１](http://www.tm-21.com/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社テクノプロジェクト](https://www.tpj.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[テラテクノロジー株式会社](https://www.teratech.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
+|[株式会社トラストソフトウェア](https://trust-software.co.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[日本システム開発株式会社](https://www.nskint.co.jp/){:target="_blank" rel="noopener"}|愛知県名古屋市|
 |[株式会社ネットワーク応用通信研究所](https://www.netlab.jp/){:target="_blank" rel="noopener"}|島根県松江市|
 |[株式会社パソナ](https://www.pasonatech.co.jp/){:target="_blank" rel="noopener"}|東京都港区|
